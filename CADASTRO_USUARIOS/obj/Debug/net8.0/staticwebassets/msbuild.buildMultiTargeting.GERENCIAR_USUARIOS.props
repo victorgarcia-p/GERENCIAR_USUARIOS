@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GERENCIAR_USUARIOS.props" />
+</Project>

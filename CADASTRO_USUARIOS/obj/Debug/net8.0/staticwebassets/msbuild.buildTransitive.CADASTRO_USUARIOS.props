@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CADASTRO_USUARIOS.props" />
+</Project>
