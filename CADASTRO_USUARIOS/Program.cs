@@ -6,7 +6,7 @@ builder.Services.AddCors();
 builder.ConnectionStringPersistence();
 builder.ServicesInjectionsExtensions();
 builder.RepositoriesInjectionsExtensions();
-//builder.MapperInjectionsExtensions();
+builder.MapperInjectionsExtensions();
 
 var app = builder.Build();
 

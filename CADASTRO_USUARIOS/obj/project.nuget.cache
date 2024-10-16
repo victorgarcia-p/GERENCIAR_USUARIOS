@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RgT45PMx7RI=",
+  "dgSpecHash": "vTiwOz5xLPg=",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
+  "projectFilePath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

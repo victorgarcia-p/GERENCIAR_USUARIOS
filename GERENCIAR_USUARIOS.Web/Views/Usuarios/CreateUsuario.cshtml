@@ -1,0 +1,56 @@
+﻿@model GERENCIAR_USUARIOS.Web.Models.ViewModelUsuario
+
+<h2>Criar Usuário</h2>
+
+<form asp-action="CreateUsuario">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="USUARIO" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="USUARIO" class="form-control" />
+                <span asp-validation-for="USUARIO" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="SENHA" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="SENHA" class="form-control" />
+                <span asp-validation-for="SENHA" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NOME" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="NOME" class="form-control" />
+                <span asp-validation-for="NOME" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EMAIL" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="EMAIL" class="form-control" />
+                <span asp-validation-for="EMAIL" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NIVEL" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="NIVEL" class="form-control" />
+                <span asp-validation-for="NIVEL" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar</a>
+            </div>
+        </div>
+    </div>
+</form>

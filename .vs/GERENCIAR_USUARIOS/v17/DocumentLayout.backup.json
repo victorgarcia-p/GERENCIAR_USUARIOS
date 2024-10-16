@@ -1,10 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\",
+  "WorkspaceRootPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|c:\\projetos\\cadastro_usuarios\\cadastro_usuarios\\cadastro_usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|solutionrelative:cadastro_usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\views\\usuarios\\updatesenhausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\views\\usuarios\\updatesenhausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\views\\usuarios\\updateusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\views\\usuarios\\updateusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\views\\usuarios\\createusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\views\\usuarios\\createusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\models\\viewmodelusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\models\\viewmodelusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\services\\servicesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\services\\servicesusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\services\\serviceslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\services\\serviceslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\services\\interfaces\\iserviceslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\services\\interfaces\\iserviceslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|c:\\projetos\\cadastro_usuarios\\cadastro_usuarios\\services\\servicelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|solutionrelative:cadastro_usuarios\\services\\servicelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|c:\\projetos\\cadastro_usuarios\\cadastro_usuarios\\models\\requestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8C64BA-9F6B-4620-AC39-29463E0C5126}|CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj|solutionrelative:cadastro_usuarios\\models\\requestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\models\\viewmodelrequestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\models\\viewmodelrequestlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|c:\\projetos\\cadastro_usuarios\\gerenciar_usuarios.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}|GERENCIAR_USUARIOS.Web\\GERENCIAR_USUARIOS.Web.csproj|solutionrelative:gerenciar_usuarios.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateSenhaUsuario.cshtml",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateSenhaUsuario.cshtml",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateSenhaUsuario.cshtml",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateSenhaUsuario.cshtml",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateSenhaUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:58:09.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUsuario.cshtml",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateUsuario.cshtml",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateUsuario.cshtml",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateUsuario.cshtml",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\UpdateUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:55:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUsuario.cshtml",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\CreateUsuario.cshtml",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\CreateUsuario.cshtml",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\CreateUsuario.cshtml",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\CreateUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:23:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModelUsuario.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Models\\ViewModelUsuario.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Models\\ViewModelUsuario.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Models\\ViewModelUsuario.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Models\\ViewModelUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:36:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesUsuario.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\ServicesUsuario.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Services\\ServicesUsuario.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\ServicesUsuario.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Services\\ServicesUsuario.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA1wEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:07:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T00:51:25.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\appsettings.json",
-              "RelativeDocumentMoniker": "CADASTRO_USUARIOS\\appsettings.json",
-              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\appsettings.json",
-              "RelativeToolTip": "CADASTRO_USUARIOS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T04:12:50.001Z",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:47:48.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceLogin.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\Services\\ServiceLogin.cs",
+              "RelativeDocumentMoniker": "CADASTRO_USUARIOS\\Services\\ServiceLogin.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\Services\\ServiceLogin.cs",
+              "RelativeToolTip": "CADASTRO_USUARIOS\\Services\\ServiceLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:39:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestLogin.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\Models\\RequestLogin.cs",
+              "RelativeDocumentMoniker": "CADASTRO_USUARIOS\\Models\\RequestLogin.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\Models\\RequestLogin.cs",
+              "RelativeToolTip": "CADASTRO_USUARIOS\\Models\\RequestLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:38:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:06:21.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicesLogin.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\ServicesLogin.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Services\\ServicesLogin.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\ServicesLogin.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Services\\ServicesLogin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:28:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicesLogin.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\Interfaces\\IServicesLogin.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Services\\Interfaces\\IServicesLogin.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Services\\Interfaces\\IServicesLogin.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Services\\Interfaces\\IServicesLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:28:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModelRequestLogin.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Models\\ViewModelRequestLogin.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Models\\ViewModelRequestLogin.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Models\\ViewModelRequestLogin.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Models\\ViewModelRequestLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:26:10.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:20:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "GERENCIAR_USUARIOS.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\PROJETOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "GERENCIAR_USUARIOS.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T00:12:26.186Z",
               "EditorCaption": ""
             }
           ]

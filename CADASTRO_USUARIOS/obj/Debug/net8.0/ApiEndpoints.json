@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "CADASTRO_USUARIOS.Controllers.LoginController",
-    "Method": "Get",
+    "Method": "Post",
     "RelativePath": "api/Login",
     "HttpMethod": "POST",
     "IsController": true,
@@ -55,13 +55,13 @@
     "Parameters": [
       {
         "Name": "USUARIO",
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -133,13 +133,13 @@
     "Parameters": [
       {
         "Name": "USUARIO",
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -159,13 +159,13 @@
     "Parameters": [
       {
         "Name": "USUARIO",
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CADASTRO_USUARIOS.Models.Usuario",
+        "Type": "CADASTRO_USUARIOS.DTOs.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",

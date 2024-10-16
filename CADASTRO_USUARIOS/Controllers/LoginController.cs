@@ -1,7 +1,6 @@
 ﻿using CADASTRO_USUARIOS.DTOs;
 using CADASTRO_USUARIOS.Models;
 using CADASTRO_USUARIOS.Services.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CADASTRO_USUARIOS.Controllers;
@@ -18,11 +17,13 @@ public class LoginController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult<UsuarioDTO>> Get(RequestLogin login)
+    public async Task<ActionResult<UsuarioDTO>> Post([FromBody] RequestLogin login)
     {
-        if (await _serviceLogin.Get(login))
-            return Ok();
+        var usuario = await _serviceLogin.Post(login);
 
-        return BadRequest();
+        if (usuario is null)
+            return NotFound();
+
+        return Ok(usuario);
     }
 }

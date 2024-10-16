@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj": {}
+    "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj": {}
   },
   "projects": {
-    "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj": {
+    "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
+        "projectUniqueName": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
         "projectName": "GERENCIAR_USUARIOS",
-        "projectPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
+        "projectPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\GERENCIAR_USUARIOS.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\obj\\",
+        "outputPath": "C:\\PROJETOS\\CADASTRO_USUARIOS\\CADASTRO_USUARIOS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

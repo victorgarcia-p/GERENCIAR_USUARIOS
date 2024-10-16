@@ -1,6 +1,7 @@
 ﻿using CADASTRO_USUARIOS.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using System.Text.Json.Serialization;
 
 namespace CADASTRO_USUARIOS.Extensions;
 
@@ -8,7 +9,7 @@ public static class ServiceCollectionExtensions
 {
     public static WebApplicationBuilder AddApiSwagger(this WebApplicationBuilder builder)
     {
-        builder.Services.AddControllers();
+        builder.Services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
         builder.Services.AddControllersWithViews();
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GERENCIAR_USUARIOS", "CADASTRO_USUARIOS\GERENCIAR_USUARIOS.csproj", "{3F8C64BA-9F6B-4620-AC39-29463E0C5126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GERENCIAR_USUARIOS.Web", "GERENCIAR_USUARIOS.Web\GERENCIAR_USUARIOS.Web.csproj", "{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3F8C64BA-9F6B-4620-AC39-29463E0C5126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8C64BA-9F6B-4620-AC39-29463E0C5126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8C64BA-9F6B-4620-AC39-29463E0C5126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710FFA5F-A5B7-4E85-B971-0A02E9B1C773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

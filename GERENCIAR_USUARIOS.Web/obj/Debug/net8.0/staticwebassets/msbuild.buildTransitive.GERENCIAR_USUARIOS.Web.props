@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GERENCIAR_USUARIOS.Web.props" />
+</Project>

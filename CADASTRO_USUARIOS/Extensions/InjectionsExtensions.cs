@@ -30,10 +30,10 @@ public static class InjectionsExtensions
         return builder;
     }
 
-    //public static WebApplicationBuilder MapperInjectionsExtensions(this WebApplicationBuilder builder)
-    //{
-    //    builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+    public static WebApplicationBuilder MapperInjectionsExtensions(this WebApplicationBuilder builder)
+    {
+        builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-    //    return builder;
-    //}
+        return builder;
+    }
 }

@@ -38,8 +38,13 @@ public class UsuariosController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult<Usuario>> Create(Usuario USUARIO)
+    public async Task<ActionResult<UsuarioDTO>> Create(UsuarioDTO USUARIO)
     {
+        USUARIO.CRIADOPOR = "admin";
+        USUARIO.CRIADOEM = DateTime.Now;
+        USUARIO.ALTERADOPOR = "admin";
+        USUARIO.ALTERADOEM = DateTime.Now;
+
         var usuario = await _serviceUsuario.Create(USUARIO);
 
         if (usuario is null)
@@ -50,8 +55,9 @@ public class UsuariosController : ControllerBase
 
     [HttpPut]
     [Route("Update")]
-    public async Task<ActionResult<Usuario>> Update(Usuario USUARIO)
+    public async Task<ActionResult<UsuarioDTO>> Update(UsuarioDTO USUARIO)
     {
+
         var usuario = await _serviceUsuario.Update(USUARIO);
 
         if (usuario is null)
@@ -62,7 +68,7 @@ public class UsuariosController : ControllerBase
 
     [HttpPut]
     [Route("UpdateSenha")]
-    public async Task<ActionResult<Usuario>> UpdateSenha(Usuario USUARIO)
+    public async Task<ActionResult<UsuarioDTO>> UpdateSenha(UsuarioDTO USUARIO)
     {
         var usuario = await _serviceUsuario.UpdateSenha(USUARIO);
 

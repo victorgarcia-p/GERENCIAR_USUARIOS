@@ -1,8 +1,9 @@
-﻿using CADASTRO_USUARIOS.Models;
+﻿using CADASTRO_USUARIOS.DTOs;
+using CADASTRO_USUARIOS.Models;
 
 namespace CADASTRO_USUARIOS.Services.Interfaces;
 
 public interface IServiceLogin
 {
-    Task<bool> Get(RequestLogin login);
+    Task<UsuarioDTO> Post(RequestLogin login);
 }
